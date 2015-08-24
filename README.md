@@ -22,9 +22,9 @@ When used from the command line, the program returns a list of papers, and
 the number of references each paper has in common with the supplied bibliography.
 
 bibcheck.py is built on top of a couple great python libraries; thanks to 
-[ckreibich](https://github.com/ckreibich) for building 
+@ckreibich for building 
 [scholar.py](https://github.com/ckreibich/scholar.py) and to 
-[sciunto](https://github.com/sciunto) for building 
+@sciunto for building 
 [python-bibtexparser](https://github.com/sciunto/python-bibtexparser).
 
 ### Usage
