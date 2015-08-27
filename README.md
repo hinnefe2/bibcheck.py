@@ -55,7 +55,7 @@ from the search.
   
 try supplying a cookie file. To generate a valid cookie:
 
-- open [Google Scholar](scholar.google.com) in a browser
+- open Google Scholar in a browser
 - do a search, and solve the captcha
 - view your browser's cookies via your favorite method
 - copy 'value' and 'expiration' from the 'GSP' cookie into the supplied notarobot.cookie file
